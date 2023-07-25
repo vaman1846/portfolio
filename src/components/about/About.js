@@ -15,7 +15,7 @@ const About = () => {
             
 
             <p className="heading">Here is a little more about me</p>
-            <p className="breif">I'm <span>Aman</span>, a dedicated MERN (MongoDB, Express.js, React.js, Node.js) Developer and passionate competitive programmer. With 9 months of experience, I possess a strong skill set in both backend and frontend development. I have expertise in building robust and scalable web applications using Node.js, Express.js, and MongoDB for the backend, and React.js for the frontend.
+            <p className="breif">I'm <span>Aman</span>, a dedicated MERN (MySql DB, MongoDB, Express.js, React.js, Node.js) Developer and passionate competitive programmer. With 9 months of experience, I possess a strong skill set in both backend and frontend development. I have expertise in building robust and scalable web applications using Node.js, Express.js, and MongoDB for the backend, and React.js for the frontend.
 
 In addition to my proficiency in the MERN stack, I have extensive knowledge of databases, including MySQL and MongoDB. This enables me to design efficient data structures and optimize database operations to ensure smooth application performance.
 
